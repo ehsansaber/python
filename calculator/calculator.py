@@ -10,7 +10,7 @@ root.geometry('380x220')
 root.resizable(0, 0)
 
 #set icon image
-photo = PhotoImage(file = "cal_icon.png")
+photo = PhotoImage(file = "calculator\cal_icon.png")
 root.iconphoto(False, photo)
 
 #set opration functions
